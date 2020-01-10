@@ -1,0 +1,5414 @@
+Pream	247, i: 5, num: 25400000, den: 473628672, mag: 1000, k: 29
+Bop	139, id: [1 0 0 0 0 0 0 0 0 0], previous page: -1
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Native Font(16): [./Padauk.ttf]
+Fnt num	187, k: 16
+xdv_glyph_string(769536):99@0
+Pop	142
+Move y	164, value: 795455
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 205@728064
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 205@728064 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 205@728064 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 207@730368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 207@730368 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 207@730368 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 211@668160
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 211@668160 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 211@668160 290@769536
+Pop	142
+Move z	169, value: 1067582
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 213@(738048,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):99@(0,0) 213@(738048,28416) 220@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):99@(0,0) 213@(738048,28416) 290@(769536,0)
+Pop	142
+Down	159, value: 795454
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 216@(696576,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):99@(0,0) 216@(696576,28416) 220@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):99@(0,0) 216@(696576,28416) 290@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 218@647424
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 218@647424 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 218@647424 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):99@0 223@769536 205@921600
+Pop	142
+Move y	164, value: 1113662
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 223@769536 205@921600 220@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 223@769536 205@921600 290@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(923904):99@0 223@769536 207@923904
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 223@769536 207@923904 220@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 223@769536 207@923904 290@893952
+Pop	142
+Move y	164, value: 795455
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1120512):99@0 223@769536 210@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1320192):99@0 223@769536 210@893952 220@1120512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1415424):99@0 223@769536 210@893952 290@1120512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(931584):99@(0,0) 223@(769536,0) 213@(931584,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1093632):99@(0,0) 223@(769536,0) 213@(931584,28416) 220@(893952,0)
+Pop	142
+Move y	164, value: 1069118
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(893952):99@(0,0) 223@(769536,0) 216@(890112,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1093632):99@(0,0) 223@(769536,0) 216@(890112,28416) 220@(893952,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1188864):99@(0,0) 223@(769536,0) 216@(890112,28416) 290@(893952,0)
+Pop	142
+Move y	164, value: 986942
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(893952):99@0 223@769536 218@840960
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 223@769536 218@840960 290@893952
+Pop	142
+Move z	169, value: 795455
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 223@769536 220@893952
+Pop	142
+Move y	164, value: 1113662
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):99@0 430@769536 205@921600
+Pop	142
+Down	159, value: 1113661
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 430@769536 205@921600 220@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 430@769536 205@921600 290@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(923904):99@0 430@769536 207@923904
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 430@769536 207@923904 220@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 225@769536 205@921600 220@893952
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(924672):99@0 226@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1219584):99@0 226@769536 205@921600 290@924672
+Pop	142
+Move y	164, value: 1069118
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(924672):99@(0,0) 226@(769536,0) 216@(890112,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1124352):99@(0,0) 226@(769536,0) 216@(890112,28416) 220@(924672,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1219584):99@(0,0) 226@(769536,0) 216@(890112,28416) 290@(924672,0)
+Pop	142
+Down	159, value: 986942
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1219584):99@0 226@769536 218@840960 290@924672
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1219584):99@0 226@769536 290@924672
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 223@769536 290@893952
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [2 0 0 0 0 0 0 0 0 0], previous page: 44
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46655540
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(961536):99@(0,0) 223@(769536,0) 304@(961536,4294953473)
+Pop	142
+Down	159, value: 1120956
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1006848):99@(0,0) 223@(769536,0) 304@(961536,4294953473) 208@(893952,0)
+Pop	142
+Down	159, value: 1120955
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1206528):99@(0,0) 223@(769536,0) 304@(961536,4294953473) 208@(893952,0) 220@(1006848,0)
+Pop	142
+Move y	164, value: 1079485
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 223@769536 305@966912 220@893952
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1120512):99@0 223@769536 306@958464 210@893952
+Pop	142
+Move z	169, value: 1079484
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1320192):99@0 223@769536 306@958464 210@893952 220@1120512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1415424):99@0 223@769536 306@958464 210@893952 290@1120512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1093632):99@0 223@769536 306@958464 220@893952
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1188864):99@0 223@769536 306@958464 290@893952
+Pop	142
+Move y	164, value: 1147069
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):229@0 99@132096 205@860160 220@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):229@0 99@132096 207@862464
+Pop	142
+Move z	169, value: 1147068
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):229@0 99@132096 207@862464 220@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1128192):230@0 99@132096 210@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(901632):229@(0,0) 99@(132096,0) 213@(870144,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1101312):229@(0,0) 99@(132096,0) 213@(870144,28416) 220@(901632,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1196544):229@(0,0) 99@(132096,0) 213@(870144,28416) 290@(901632,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1101312):229@(0,0) 99@(132096,0) 216@(828672,28416) 220@(901632,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):230@0 99@132096 218@779520
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):230@0 99@132096 218@779520 290@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):230@0 99@132096 220@901632
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):432@0 99@132096 205@860160
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):432@0 99@132096 205@860160 220@901632
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):432@0 99@132096 207@862464
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):230@0 99@132096 243@748032
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):229@0 99@132096 243@748032 205@860160
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):229@0 99@132096 243@748032 205@860160 220@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):229@0 99@132096 243@748032 205@860160 290@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):229@0 99@132096 243@748032 207@862464
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):229@0 99@132096 243@748032 207@862464 290@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1128192):230@0 99@132096 243@748032 210@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(901632):229@(0,0) 99@(132096,0) 243@(748032,0) 213@(870144,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1101312):229@(0,0) 99@(132096,0) 243@(748032,0) 216@(828672,28416) 220@(901632,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1196544):229@(0,0) 99@(132096,0) 243@(748032,0) 216@(828672,28416) 290@(901632,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):230@0 99@132096 243@748032 218@779520 220@901632
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):230@0 99@132096 243@748032 218@779520 290@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1214208):229@(0,0) 99@(132096,0) 243@(748032,0) 304@(900096,4294953473) 208@(901632,0) 220@(1014528,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1309440):229@(0,0) 99@(132096,0) 243@(748032,0) 304@(900096,4294953473) 208@(901632,0) 290@(1014528,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(906240):229@0 99@132096 243@748032 305@905472
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):229@0 99@132096 243@748032 306@897024 220@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1101312):238@(0,0) 99@(132096,0) 304@(900096,4294953473) 220@(901632,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):229@0 99@132096 305@905472 290@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(901632):229@0 99@132096 306@897024
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [3 0 0 0 0 0 0 0 0 0], previous page: 2062
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46629427
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(1423104):229@0 99@132096 306@897024 210@901632 290@1128192
+Pop	142
+Move y	164, value: 1145411
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1101312):229@0 99@132096 306@897024 220@901632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1196544):229@0 99@132096 306@897024 290@901632
+Pop	142
+Move y	164, value: 1105475
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 435@718848 205@728064
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 435@718848 205@728064 220@769536
+Pop	142
+Down	159, value: 1105476
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 435@718848 205@728064 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 435@718848 207@730368 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 436@721152 205@728064 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 436@721152 207@730368
+Pop	142
+Move y	164, value: 787268
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 435@718848 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 437@571392
+Pop	142
+Move y	164, value: 1105475
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 437@571392 207@730368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 437@571392 207@730368 220@769536
+Pop	142
+Move z	169, value: 787269
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 441@774144 220@769536
+Pop	142
+Move y	164, value: 1059395
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 437@(571392,0) 213@(738048,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):99@(0,0) 437@(571392,0) 213@(738048,28416) 220@(769536,0)
+Pop	142
+Move y	164, value: 1060931
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 437@(571392,0) 216@(696576,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):99@(0,0) 437@(571392,0) 216@(696576,28416) 290@(769536,0)
+Pop	142
+Down	159, value: 978755
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 437@571392 218@647424
+Pop	142
+Move y	164, value: 787268
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 437@571392 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 437@571392 290@769536
+Pop	142
+Down	159, value: 1119299
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 439@(719616,0) 304@(768000,4294953473)
+Pop	142
+Move y	164, value: 1119298
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):99@(0,0) 439@(719616,0) 304@(768000,4294953473) 220@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):99@(0,0) 439@(719616,0) 304@(768000,4294953473) 290@(769536,0)
+Pop	142
+Move y	164, value: 1077827
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(774144):99@0 437@571392 305@773376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 437@571392 306@764928
+Pop	142
+Move y	164, value: 787268
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):99@(0,0) 304@(768000,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(774144):99@0 305@773376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 305@773376 220@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 305@773376 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 306@764928
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):99@0 306@764928 211@668160
+Pop	142
+Move y	164, value: 1077827
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):99@0 306@764928 211@668160 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 306@764928 211@668160 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):99@0 306@764928 290@769536
+Pop	142
+Move y	164, value: 787268
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 205@397056
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 205@397056 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 205@397056 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 207@399360
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 207@399360 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 207@399360 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 211@337152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 211@337152 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 211@337152 290@442368
+Pop	142
+Down	159, value: 1059396
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):103@(0,0) 213@(407040,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):103@(0,0) 213@(407040,28416) 220@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):103@(0,0) 213@(407040,28416) 290@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):103@(0,0) 216@(365568,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):103@(0,0) 216@(365568,28416) 220@(442368,0)
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [4 0 0 0 0 0 0 0 0 0], previous page: 4028
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(737280):103@(0,0) 216@(365568,28416) 290@(442368,0)
+Pop	142
+Move y	164, value: 789244
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 218@316416
+Pop	142
+Move z	169, value: 789245
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 218@316416 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 218@316416 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(574464):228@0 103@132096 207@531456
+Pop	142
+Down	159, value: 1107452
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 435@387840 205@397056
+Pop	142
+Down	159, value: 1107451
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 435@387840 207@399360
+Pop	142
+Move y	164, value: 1061372
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):103@(0,0) 435@(387840,0) 213@(407040,28416)
+Pop	142
+Down	159, value: 1061371
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):103@(0,0) 435@(387840,0) 213@(407040,28416) 290@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):103@(0,0) 437@(240384,0) 213@(407040,28416)
+Pop	142
+Down	159, value: 1121274
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):103@(0,0) 439@(388608,0) 304@(436992,4294953473) 290@(442368,0)
+Pop	142
+Down	159, value: 1079804
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(443136):103@0 437@240384 305@442368
+Pop	142
+Move y	164, value: 789244
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):103@(0,0) 304@(436992,4294953473) 290@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(443136):103@0 305@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 305@442368 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 305@442368 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 306@433920
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):103@0 306@433920 211@337152
+Pop	142
+Move y	164, value: 1079803
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):103@0 306@433920 211@337152 220@442368
+Pop	142
+Down	159, value: 1079804
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 306@433920 211@337152 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):103@0 306@433920 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(767232):107@0
+Pop	142
+Move y	164, value: 789244
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(436224):109@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(635904):109@0 220@436224
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(436224):109@0 437@247296 205@403968
+Pop	142
+Down	159, value: 1061372
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(731136):109@(0,0) 437@(247296,0) 213@(413952,28416) 290@(436224,0)
+Pop	142
+Down	159, value: 1062907
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(731136):109@(0,0) 437@(247296,0) 216@(372480,28416) 290@(436224,0)
+Pop	142
+Down	159, value: 980732
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(731136):109@0 437@247296 218@323328 290@436224
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(635904):109@0 437@247296 220@436224
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(731136):109@0 437@247296 290@436224
+Pop	142
+Down	159, value: 1121274
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(443904):109@(0,0) 439@(395520,0) 304@(443904,4294953473)
+Pop	142
+Down	159, value: 1121275
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(635904):109@(0,0) 439@(395520,0) 304@(443904,4294953473) 220@(436224,0)
+Pop	142
+Down	159, value: 1079803
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(731136):109@0 437@247296 305@449280 290@436224
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(731136):109@0 290@436224
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 205@400896
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 205@400896 211@340992
+Pop	142
+Move y	164, value: 1107451
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 205@400896 211@340992 220@442368
+Pop	142
+Down	159, value: 1107452
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 205@400896 211@340992 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 205@400896 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 205@400896 290@442368
+Pop	142
+Down	159, value: 789244
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 207@403200
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 207@403200 211@340992
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 207@403200 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 207@403200 290@442368
+Pop	142
+Move y	164, value: 789244
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 211@(340992,0) 213@(410880,28416)
+Pop	142
+Move z	169, value: 1061372
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 211@(340992,0) 213@(410880,28416) 220@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 211@340992 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 213@(410880,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 213@(410880,28416) 220@(442368,0)
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [5 0 0 0 0 0 0 0 0 0], previous page: 5983
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(737280):118@(0,0) 213@(410880,28416) 290@(442368,0)
+Pop	142
+Move z	169, value: 799308
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 216@(369408,28416)
+Pop	142
+Down	159, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 216@(369408,28416) 211@(340992,0)
+Pop	142
+Move y	164, value: 1072971
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 216@(369408,28416) 211@(340992,0) 220@(442368,0)
+Pop	142
+Down	159, value: 1072972
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):118@(0,0) 216@(369408,28416) 211@(340992,0) 290@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 216@(369408,28416) 220@(442368,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 218@320256
+Pop	142
+Move y	164, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 218@320256 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 218@320256 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 435@391680 207@403200
+Pop	142
+Move y	164, value: 1117515
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 435@391680 207@403200 290@442368
+Pop	142
+Down	159, value: 1071436
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 435@(391680,0) 213@(410880,28416) 220@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 436@393984 205@400896
+Pop	142
+Down	159, value: 1117516
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 436@393984 205@400896 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 436@393984 205@400896 290@442368
+Pop	142
+Down	159, value: 1071435
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 436@(393984,0) 213@(410880,28416)
+Pop	142
+Move z	169, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 437@244224
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 437@244224 205@400896 220@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(562176):118@76800 441@562176
+Pop	142
+Move z	169, value: 799308
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(775680):118@76800 441@562176 290@480768
+Pop	142
+Down	159, value: 1071435
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 437@(244224,0) 213@(410880,28416)
+Pop	142
+Down	159, value: 1071436
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 437@(244224,0) 213@(410880,28416) 220@(442368,0)
+Pop	142
+Move y	164, value: 1072971
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 437@(244224,0) 216@(369408,28416)
+Pop	142
+Down	159, value: 1072972
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(775680):118@(76800,0) 441@(562176,0) 216@(484608,28416) 290@(480768,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(642048):118@(0,0) 437@(244224,0) 216@(369408,28416) 220@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):118@(0,0) 437@(244224,0) 216@(369408,28416) 290@(442368,0)
+Pop	142
+Down	159, value: 990796
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 437@244224 218@320256
+Pop	142
+Down	159, value: 990795
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 437@244224 218@320256 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 437@244224 220@442368
+Pop	142
+Down	159, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 437@244224 290@442368
+Pop	142
+Down	159, value: 1131338
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 439@(392448,0) 304@(440832,4294953473)
+Pop	142
+Move z	169, value: 1089868
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(446976):118@0 437@244224 305@446208
+Pop	142
+Move y	164, value: 1089867
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 437@244224 305@446208 220@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 437@244224 305@446208 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(562176):118@76800 441@562176 306@552960
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(680448):118@76800 441@562176 306@552960 220@480768
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 437@244224 306@437760 290@442368
+Pop	142
+Move y	164, value: 799308
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 304@(440832,4294953473)
+Pop	142
+Move y	164, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(442368):118@(0,0) 304@(440832,4294953473) 209@(283392,0)
+Pop	142
+Down	159, value: 1131338
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):118@(0,0) 304@(440832,4294953473) 290@(442368,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(446976):118@0 305@446208
+Pop	142
+Move y	164, value: 799308
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(446976):118@0 305@446208 211@340224
+Pop	142
+Down	159, value: 1089867
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 305@446208 211@340224 290@442368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 305@446208 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 306@437760
+Pop	142
+Down	159, value: 799309
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(442368):118@0 306@437760 211@340992
+Pop	142
+Down	159, value: 1089867
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(642048):118@0 306@437760 211@340992 220@442368
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [6 0 0 0 0 0 0 0 0 0], previous page: 7974
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(642048):118@0 306@437760 220@442368
+Pop	142
+Move y	164, value: 804235
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):118@0 306@437760 290@442368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0
+Pop	142
+Move z	169, value: 804236
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 205@718848 211@658944 290@760320
+Pop	142
+Down	159, value: 1122442
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 205@718848 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 205@718848 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 207@721152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 207@721152 211@658944
+Pop	142
+Down	159, value: 1122443
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 207@721152 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 207@721152 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 211@658944
+Pop	142
+Down	159, value: 1076362
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):120@(0,0) 211@(658944,0) 213@(728832,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 211@658944 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 211@658944 290@760320
+Pop	142
+Down	159, value: 1076362
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):120@(0,0) 213@(728832,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):120@(0,0) 213@(728832,28416) 220@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):120@(0,0) 213@(728832,28416) 290@(760320,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):120@(0,0) 216@(687360,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):120@(0,0) 216@(687360,28416) 220@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):120@(0,0) 216@(687360,28416) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 218@638208
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 218@638208 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 218@638208 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 435@709632 207@721152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 435@709632 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):120@(0,0) 304@(758784,4294953473) 209@(601344,0)
+Pop	142
+Move y	164, value: 1136265
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):120@(0,0) 304@(758784,4294953473) 209@(601344,0) 220@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):120@(0,0) 304@(758784,4294953473) 209@(601344,0) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):120@(0,0) 304@(758784,4294953473) 220@(760320,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(764928):120@0 305@764160
+Pop	142
+Move y	164, value: 804235
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(764928):120@0 305@764160 211@658176
+Pop	142
+Move z	169, value: 1094794
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 305@764160 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):120@0 306@755712 211@658944
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 306@755712 211@658944 220@760320
+Pop	142
+Down	159, value: 1094795
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 306@755712 211@658944 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):120@0 306@755712 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):120@0 306@755712 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 205@400896 211@339456 220@467712
+Pop	142
+Down	159, value: 1122443
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 207@403200
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 211@(339456,0) 213@(410880,28416)
+Pop	142
+Move y	164, value: 1076362
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(667392):122@(0,0) 211@(339456,0) 213@(410880,28416) 220@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 213@(410880,28416)
+Pop	142
+Move z	169, value: 804236
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 216@(369408,28416)
+Pop	142
+Move y	164, value: 804235
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 216@(369408,28416) 211@(339456,0)
+Pop	142
+Down	159, value: 1077898
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(667392):122@(0,0) 216@(369408,28416) 220@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(762624):122@(0,0) 216@(369408,28416) 290@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 218@320256 220@467712
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 435@390144 205@400896 220@467712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 437@242688
+Pop	142
+Down	159, value: 1122442
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 437@242688 205@400896
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [7 0 0 0 0 0 0 0 0 0], previous page: 10010
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46669363
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(762624):122@0 437@242688 205@400896 290@467712
+Pop	142
+Down	159, value: 1106573
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 437@242688 207@403200
+Pop	142
+Move y	164, value: 1060493
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 437@(242688,0) 213@(410880,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(667392):122@(0,0) 437@(242688,0) 213@(410880,28416) 220@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(762624):122@(0,0) 437@(242688,0) 213@(410880,28416) 290@(467712,0)
+Pop	142
+Move y	164, value: 1062029
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 437@(242688,0) 216@(369408,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(762624):122@(0,0) 437@(242688,0) 216@(369408,28416) 290@(467712,0)
+Pop	142
+Down	159, value: 979854
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 437@242688 218@320256
+Pop	142
+Move y	164, value: 788366
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 437@242688 220@467712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(762624):122@0 437@242688 290@467712
+Pop	142
+Move y	164, value: 1120396
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(467712):122@(0,0) 439@(390912,0) 304@(440832,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(667392):122@(0,0) 439@(390912,0) 304@(440832,4294953473) 220@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(762624):122@(0,0) 439@(390912,0) 304@(440832,4294953473) 290@(467712,0)
+Pop	142
+Move y	164, value: 1078925
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 437@242688 305@446208
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 437@242688 305@446208 220@467712
+Pop	142
+Move y	164, value: 788366
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(762624):122@0 290@467712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(667392):122@(0,0) 304@(440832,4294953473) 209@(281856,0) 220@(467712,0)
+Pop	142
+Down	159, value: 1120396
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(762624):122@(0,0) 304@(440832,4294953473) 290@(467712,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 305@446208 211@338688 220@467712
+Pop	142
+Move z	169, value: 1078925
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(667392):122@0 305@446208 220@467712
+Pop	142
+Down	159, value: 788367
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(467712):122@0 306@437760
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(762624):122@0 306@437760 211@339456 290@467712
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(762624):122@0 306@437760 290@467712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):128@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):128@0 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):129@0 437@562176
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):129@0 437@562176 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):129@0 437@562176 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):129@0 437@562176 306@755712
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):129@0 437@562176 306@755712 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):129@0 437@562176 306@755712 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):128@0 290@760320
+Pop	142
+Down	159, value: 1078926
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):128@0 306@755712
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):128@0 306@755712 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):128@0 306@755712 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 205@724224 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 205@724224 290@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 207@726528
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 207@726528 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 207@726528 290@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 211@664320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 211@664320 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 211@664320 290@765696
+Pop	142
+Down	159, value: 1060493
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 213@(734208,28416)
+Pop	142
+Down	159, value: 788367
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 213@(734208,28416) 220@(765696,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 216@(692736,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 216@(692736,28416) 220@(765696,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 218@643584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 218@643584 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 436@717312 205@724224
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [8 0 0 0 0 0 0 0 0 0], previous page: 12012
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46669363
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(1060608):149@0 436@717312 205@724224 290@765696
+Pop	142
+Move z	169, value: 791142
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 437@567552
+Pop	142
+Move y	164, value: 1109349
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 437@567552 205@724224
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 437@567552 205@724224 220@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 437@567552 205@724224 290@765696
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 437@567552 207@726528 290@765696
+Pop	142
+Down	159, value: 791141
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(770304):149@0 441@770304
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 441@770304 290@765696
+Pop	142
+Move y	164, value: 1063269
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 437@(567552,0) 213@(734208,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 437@(567552,0) 213@(734208,28416) 220@(765696,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1060608):149@(0,0) 437@(567552,0) 213@(734208,28416) 290@(765696,0)
+Pop	142
+Move y	164, value: 1064805
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 437@(567552,0) 216@(692736,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 437@(567552,0) 216@(692736,28416) 220@(765696,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1060608):149@(0,0) 437@(567552,0) 216@(692736,28416) 290@(765696,0)
+Pop	142
+Down	159, value: 982629
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 437@567552 218@643584 220@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 437@567552 220@765696
+Pop	142
+Down	159, value: 791141
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 437@567552 290@765696
+Pop	142
+Move y	164, value: 1123172
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 437@(567552,0) 304@(764160,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 439@(715776,0) 304@(764160,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 439@(715776,0) 304@(764160,4294953473) 220@(765696,0)
+Pop	142
+Move y	164, value: 1081701
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(770304):149@0 437@567552 305@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 437@567552 306@761088 290@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 290@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(765696):149@(0,0) 304@(764160,4294953473)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 304@(764160,4294953473) 209@(606720,0) 220@(765696,0)
+Pop	142
+Down	159, value: 1123172
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(965376):149@(0,0) 304@(764160,4294953473) 220@(765696,0)
+Pop	142
+Move y	164, value: 791141
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1060608):149@(0,0) 304@(764160,4294953473) 290@(765696,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(770304):149@0 305@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 305@769536 290@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(765696):149@0 306@761088
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(965376):149@0 306@761088 220@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1060608):149@0 306@761088 290@765696
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 205@718848
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 205@718848 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 207@721152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 207@721152 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 211@658944
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 211@658944 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 211@658944 290@760320
+Pop	142
+Down	159, value: 1063269
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):152@(0,0) 213@(728832,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):152@(0,0) 213@(728832,28416) 220@(760320,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):152@(0,0) 216@(687360,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):152@(0,0) 216@(687360,28416) 220@(760320,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):152@(0,0) 216@(687360,28416) 290@(760320,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 218@638208
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 218@638208 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 218@638208 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 435@709632 205@718848
+Pop	142
+Move y	164, value: 1109349
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 435@709632 205@718848 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 435@709632 207@721152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 435@709632 207@721152 290@760320
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [9 0 0 0 0 0 0 0 0 0], previous page: 13972
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46669363
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(760320):152@0 436@711936 205@718848
+Pop	142
+Move y	164, value: 1118665
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 436@711936 205@718848 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 436@711936 205@718848 290@760320
+Pop	142
+Move z	169, value: 800459
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 290@760320
+Pop	142
+Move y	164, value: 800458
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):152@(0,0) 304@(758784,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):152@(0,0) 304@(758784,4294953473) 209@(601344,0) 220@(760320,0)
+Pop	142
+Down	159, value: 1132488
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):152@(0,0) 304@(758784,4294953473) 209@(601344,0) 290@(760320,0)
+Pop	142
+Down	159, value: 1132489
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):152@(0,0) 304@(758784,4294953473) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(764928):152@0 305@764160
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 305@764160 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 305@764160 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):152@0 306@755712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 306@755712 211@658944 220@760320
+Pop	142
+Move y	164, value: 1091017
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 306@755712 211@658944 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):152@0 306@755712 220@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):152@0 306@755712 290@760320
+Pop	142
+Move y	164, value: 800458
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 205@384768
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 205@384768 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 205@384768 290@410112
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 207@387072
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 207@387072 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 207@387072 290@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 211@324864
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 211@324864 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 211@324864 290@410112
+Pop	142
+Down	159, value: 1072585
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(410112):154@(0,0) 213@(394752,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(609792):154@(0,0) 213@(394752,28416) 220@(410112,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(705024):154@(0,0) 213@(394752,28416) 290@(410112,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(410112):154@(0,0) 216@(353280,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(609792):154@(0,0) 216@(353280,28416) 220@(410112,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(705024):154@(0,0) 216@(353280,28416) 290@(410112,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 218@304128
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 218@304128 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 218@304128 290@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(837120):228@0 154@132096 205@516864 290@542208
+Pop	142
+Down	159, value: 1156298
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(542208):228@0 154@132096 207@519168
+Pop	142
+Move y	164, value: 1156297
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(542208):228@(0,0) 154@(132096,0) 243@(404736,0) 213@(526848,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(562944):228@0 154@132096 305@562176
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(837120):228@0 154@132096 305@562176 290@542208
+Pop	142
+Down	159, value: 1118666
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 435@375552 205@384768
+Pop	142
+Move y	164, value: 1118665
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 435@375552 205@384768 220@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(410112):154@0 435@375552 207@387072
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 436@377856 205@384768 220@410112
+Pop	142
+Down	159, value: 1132489
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(424704):154@(0,0) 439@(376320,0) 304@(424704,4294953473)
+Pop	142
+Move y	164, value: 1132488
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(609792):154@(0,0) 439@(376320,0) 304@(424704,4294953473) 220@(410112,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(705024):154@(0,0) 439@(376320,0) 304@(424704,4294953473) 290@(410112,0)
+Pop	142
+Move y	164, value: 800458
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 290@410112
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(424704):154@(0,0) 304@(424704,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(705024):154@(0,0) 304@(424704,4294953473) 290@(410112,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(430848):154@0 305@430080
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [10 0 0 0 0 0 0 0 0 0], previous page: 15997
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(609792):154@0 305@430080 220@410112
+Pop	142
+Move y	164, value: 789339
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 305@430080 290@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(421632):154@0 306@421632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(421632):154@0 306@421632 211@324864
+Pop	142
+Move y	164, value: 1079898
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 306@421632 211@324864 290@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(609792):154@0 306@421632 220@410112
+Pop	142
+Move y	164, value: 789339
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(705024):154@0 306@421632 290@410112
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(407040):158@0
+Pop	142
+Move y	164, value: 1107546
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(407040):158@0 205@389376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701952):158@0 205@389376 290@407040
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(407040):158@0 207@391680
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(606720):158@0 207@391680 220@407040
+Pop	142
+Down	159, value: 1107547
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701952):158@0 207@391680 290@407040
+Pop	142
+Move y	164, value: 789339
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(605952):159@0 211@327936 220@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701184):159@0 211@327936 290@406272
+Pop	142
+Move y	164, value: 1061466
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(407040):158@(0,0) 213@(399360,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(606720):158@(0,0) 213@(399360,28416) 220@(407040,0)
+Pop	142
+Move y	164, value: 1063002
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(407040):158@(0,0) 216@(357888,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(606720):158@(0,0) 216@(357888,28416) 220@(407040,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701952):158@(0,0) 216@(357888,28416) 290@(407040,0)
+Pop	142
+Down	159, value: 980826
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(606720):158@0 218@308736 220@407040
+Pop	142
+Move y	164, value: 1107546
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(406272):159@0 435@378624 205@387840
+Pop	142
+Down	159, value: 1061466
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701184):159@(0,0) 436@(380928,0) 213@(397824,28416) 290@(406272,0)
+Pop	142
+Move z	169, value: 789339
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(406272):159@0 437@231168
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(406272):159@0 437@231168 205@387840
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(406272):159@0 437@231168 207@390144
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(739584):159@76800 441@549120 290@444672
+Pop	142
+Move y	164, value: 1061466
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(406272):159@(0,0) 437@(231168,0) 213@(397824,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(605952):159@(0,0) 437@(231168,0) 213@(397824,28416) 220@(406272,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701184):159@(0,0) 437@(231168,0) 213@(397824,28416) 290@(406272,0)
+Pop	142
+Move y	164, value: 1063002
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(605952):159@(0,0) 437@(231168,0) 216@(356352,28416) 220@(406272,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701184):159@(0,0) 437@(231168,0) 216@(356352,28416) 290@(406272,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701184):159@0 437@231168 290@406272
+Pop	142
+Move y	164, value: 1121369
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(427776):159@(0,0) 439@(379392,0) 304@(427776,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(605952):159@(0,0) 439@(379392,0) 304@(427776,4294953473) 220@(406272,0)
+Pop	142
+Down	159, value: 1121370
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701184):159@(0,0) 439@(379392,0) 304@(427776,4294953473) 290@(406272,0)
+Pop	142
+Move y	164, value: 1079898
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(424704):159@0 437@231168 306@424704
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701184):159@0 437@231168 306@424704 290@406272
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701952):158@0 290@407040
+Pop	142
+Move y	164, value: 1121369
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(605952):159@(0,0) 304@(427776,4294953473) 209@(270336,0) 220@(406272,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(701184):159@(0,0) 304@(427776,4294953473) 209@(270336,0) 290@(406272,0)
+Pop	142
+Move y	164, value: 1079898
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(435456):158@0 305@434688
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701952):158@0 305@434688 290@407040
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(426240):158@0 306@426240
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(605952):159@0 306@424704 211@327936 220@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(606720):158@0 306@426240 220@407040
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(701952):158@0 306@426240 290@407040
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [11 0 0 0 0 0 0 0 0 0], previous page: 17978
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46669363
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(448512):163@0 205@403968
+Pop	142
+Move y	164, value: 806985
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 205@403968 290@448512
+Pop	142
+Move z	169, value: 806984
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 207@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 207@406272 211@344064
+Pop	142
+Down	159, value: 1125192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 207@406272 290@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 211@344064 220@448512
+Pop	142
+Down	159, value: 1079112
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(448512):163@(0,0) 213@(413952,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 213@(413952,28416) 290@(448512,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(448512):163@(0,0) 216@(372480,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 216@(372480,28416) 290@(448512,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 218@323328
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 218@323328 290@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(572928):163@0 223@448512
+Pop	142
+Move y	164, value: 1125192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(772608):163@0 223@448512 205@600576 220@572928
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(867840):163@0 223@448512 205@600576 290@572928
+Pop	142
+Move z	169, value: 1125191
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(602880):163@0 223@448512 207@602880
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(772608):163@0 223@448512 207@602880 220@572928
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(867840):163@0 223@448512 207@602880 290@572928
+Pop	142
+Move y	164, value: 806985
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(799488):163@0 223@448512 210@572928
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(999168):163@0 223@448512 210@572928 220@799488
+Pop	142
+Down	159, value: 1079111
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(610560):163@(0,0) 223@(448512,0) 213@(610560,28416)
+Pop	142
+Down	159, value: 1079112
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(867840):163@(0,0) 223@(448512,0) 213@(610560,28416) 290@(572928,0)
+Pop	142
+Move y	164, value: 1080648
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(572928):163@(0,0) 223@(448512,0) 216@(569088,28416)
+Pop	142
+Down	159, value: 1080647
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(772608):163@(0,0) 223@(448512,0) 216@(569088,28416) 220@(572928,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(867840):163@(0,0) 223@(448512,0) 216@(569088,28416) 290@(572928,0)
+Pop	142
+Move y	164, value: 998472
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(572928):163@0 223@448512 218@519936
+Pop	142
+Down	159, value: 998471
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(772608):163@0 223@448512 218@519936 220@572928
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(867840):163@0 223@448512 218@519936 290@572928
+Pop	142
+Move y	164, value: 806985
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(772608):163@0 223@448512 220@572928
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(600576):163@0 430@448512 205@600576
+Pop	142
+Down	159, value: 1125192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(772608):163@0 430@448512 205@600576 220@572928
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(898560):163@0 226@448512 207@602880 290@603648
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(830208):163@0 226@448512 210@603648
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1029888):163@0 226@448512 210@603648 220@830208
+Pop	142
+Down	159, value: 806984
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1125120):163@0 226@448512 210@603648 290@830208
+Pop	142
+Move y	164, value: 1079112
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(610560):163@(0,0) 226@(448512,0) 213@(610560,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(803328):163@(0,0) 226@(448512,0) 213@(610560,28416) 220@(603648,0)
+Pop	142
+Down	159, value: 1080647
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(603648):163@(0,0) 226@(448512,0) 216@(569088,28416)
+Pop	142
+Down	159, value: 1080648
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(898560):163@(0,0) 226@(448512,0) 216@(569088,28416) 290@(603648,0)
+Pop	142
+Move y	164, value: 1139015
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(640512):163@(0,0) 226@(448512,0) 304@(640512,4294953473)
+Pop	142
+Move z	169, value: 1139014
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(898560):163@(0,0) 226@(448512,0) 304@(640512,4294953473) 290@(603648,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(685824):163@(0,0) 223@(448512,0) 304@(640512,4294953473) 208@(572928,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(980736):163@(0,0) 223@(448512,0) 304@(640512,4294953473) 208@(572928,0) 290@(685824,0)
+Pop	142
+Move y	164, value: 1097544
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(646656):163@0 223@448512 305@645888
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(867840):163@0 223@448512 305@645888 290@572928
+Pop	142
+Down	159, value: 1097543
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(637440):163@0 223@448512 306@637440
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(799488):163@0 223@448512 306@637440 210@572928
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [12 0 0 0 0 0 0 0 0 0], previous page: 19859
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(999168):163@0 223@448512 306@637440 210@572928 220@799488
+Pop	142
+Move y	164, value: 1077911
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1094400):163@0 223@448512 306@637440 210@572928 290@799488
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(867840):163@0 223@448512 306@637440 290@572928
+Pop	142
+Move y	164, value: 1143191
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):228@0 163@132096 205@536064
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 205@536064 220@580608
+Pop	142
+Down	159, value: 1143192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):228@0 163@132096 207@538368
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 207@538368 220@580608
+Pop	142
+Move y	164, value: 1145495
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(807168):227@0 163@132096 210@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1006848):227@0 163@132096 210@580608 220@807168
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1102080):227@0 163@132096 210@580608 290@807168
+Pop	142
+Move y	164, value: 1143191
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(580608):228@(0,0) 163@(132096,0) 213@(546048,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(875520):228@(0,0) 163@(132096,0) 213@(546048,28416) 290@(580608,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(580608):228@(0,0) 163@(132096,0) 216@(504576,28416)
+Pop	142
+Down	159, value: 1145496
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):227@0 163@132096 218@455424
+Pop	142
+Move y	164, value: 1145495
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):227@0 163@132096 218@455424 220@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):431@0 163@132096 205@536064
+Pop	142
+Move z	169, value: 1143191
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 241@551424 205@536064 220@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):227@0 163@132096 243@423936
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):228@0 163@132096 243@423936 205@536064
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(875520):228@0 163@132096 243@423936 205@536064 290@580608
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 243@423936 207@538368 220@580608
+Pop	142
+Down	159, value: 1143192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(875520):228@0 163@132096 243@423936 207@538368 290@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(807168):227@0 163@132096 243@423936 210@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1006848):227@0 163@132096 243@423936 210@580608 220@807168
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1102080):227@0 163@132096 243@423936 210@580608 290@807168
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(580608):228@(0,0) 163@(132096,0) 243@(423936,0) 213@(546048,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(875520):228@(0,0) 163@(132096,0) 243@(423936,0) 213@(546048,28416) 290@(580608,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(580608):228@(0,0) 163@(132096,0) 243@(423936,0) 216@(504576,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(875520):228@(0,0) 163@(132096,0) 243@(423936,0) 216@(504576,28416) 290@(580608,0)
+Pop	142
+Down	159, value: 1145496
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):227@0 163@132096 243@423936 220@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(875520):227@0 163@132096 243@423936 290@580608
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(580608):228@0 163@132096 243@423936 306@572928
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 243@423936 306@572928 220@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(875520):227@0 163@132096 290@580608
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(580608):237@(0,0) 163@(132096,0) 304@(576000,4294953473)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(582144):228@0 163@132096 305@581376
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(780288):228@0 163@132096 305@581376 220@580608
+Pop	142
+Down	159, value: 1143192
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1006848):228@0 163@132096 306@572928 210@580608 220@807168
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(875520):228@0 163@132096 306@572928 290@580608
+Pop	142
+Move y	164, value: 1105559
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 435@394752 207@406272
+Pop	142
+Down	159, value: 1059479
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 435@(394752,0) 213@(413952,28416) 290@(448512,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 436@397056 205@403968 220@448512
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [13 0 0 0 0 0 0 0 0 0], previous page: 21880
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46669363
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(743424):163@0 436@397056 207@406272 290@448512
+Pop	142
+Move z	169, value: 801942
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 437@247296
+Pop	142
+Move y	164, value: 1120149
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 437@247296 205@403968
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 437@247296 205@403968 220@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 437@247296 205@403968 290@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 437@247296 207@406272 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(565248):163@76800 441@565248
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(686592):163@76800 441@565248 220@486912
+Pop	142
+Move y	164, value: 1074069
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648192):163@(0,0) 437@(247296,0) 213@(413952,28416) 220@(448512,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 437@(247296,0) 213@(413952,28416) 290@(448512,0)
+Pop	142
+Move y	164, value: 1075605
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(448512):163@(0,0) 437@(247296,0) 216@(372480,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648192):163@(0,0) 437@(247296,0) 216@(372480,28416) 220@(448512,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 437@(247296,0) 216@(372480,28416) 290@(448512,0)
+Pop	142
+Move y	164, value: 993429
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 437@247296 218@323328
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 437@247296 218@323328 290@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 437@247296 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 437@247296 290@448512
+Pop	142
+Move y	164, value: 1133972
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(448512):163@(0,0) 439@(395520,0) 304@(443904,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 439@(395520,0) 304@(443904,4294953473) 290@(448512,0)
+Pop	142
+Move y	164, value: 1092501
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(450048):163@0 437@247296 305@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 437@247296 305@449280 220@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 437@247296 306@440832
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(686592):163@76800 441@565248 306@556032 220@486912
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(781824):163@76800 441@565248 306@556032 290@486912
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 437@247296 306@440832 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 290@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(448512):163@(0,0) 304@(443904,4294953473)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(743424):163@(0,0) 304@(443904,4294953473) 290@(448512,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(450048):163@0 305@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 305@449280 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 305@449280 290@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 306@440832
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(448512):163@0 306@440832 211@344064
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 306@440832 211@344064 220@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 306@440832 211@344064 290@448512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648192):163@0 306@440832 220@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(743424):163@0 306@440832 290@448512
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0 205@403968
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 205@403968 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 205@403968 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0 207@406272
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 207@406272 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0 211@344064
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 211@344064 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 211@344064 290@449280
+Pop	142
+Down	159, value: 1074069
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):165@(0,0) 213@(413952,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):165@(0,0) 213@(413952,28416) 220@(449280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):165@(0,0) 213@(413952,28416) 290@(449280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):165@(0,0) 216@(372480,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):165@(0,0) 216@(372480,28416) 220@(449280,0)
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [14 0 0 0 0 0 0 0 0 0], previous page: 23749
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(744192):165@(0,0) 216@(372480,28416) 290@(449280,0)
+Pop	142
+Move y	164, value: 788587
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 218@323328 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 218@323328 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(581376):227@0 165@132096
+Pop	142
+Move y	164, value: 1144426
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(876288):228@0 165@132096 205@536064 290@581376
+Pop	142
+Down	159, value: 1144425
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(876288):228@0 165@132096 207@538368 290@581376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(581376):228@(0,0) 165@(132096,0) 216@(504576,28416)
+Pop	142
+Down	159, value: 1146730
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(876288):227@0 165@132096 243@423936 290@581376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(582144):228@0 165@132096 305@581376
+Pop	142
+Down	159, value: 1106794
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 435@394752 207@406272 220@449280
+Pop	142
+Move y	164, value: 1120617
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):165@(0,0) 439@(395520,0) 304@(443904,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):165@(0,0) 439@(395520,0) 304@(443904,4294953473) 220@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):165@(0,0) 439@(395520,0) 304@(443904,4294953473) 290@(449280,0)
+Pop	142
+Move y	164, value: 788587
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):165@(0,0) 304@(443904,4294953473) 209@(286464,0) 220@(449280,0)
+Pop	142
+Down	159, value: 1120616
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):165@(0,0) 304@(443904,4294953473) 290@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(450048):165@0 305@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 305@449280 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 305@449280 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0 306@440832
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):165@0 306@440832 211@344064
+Pop	142
+Move y	164, value: 1079146
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):165@0 306@440832 211@344064 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 306@440832 211@344064 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):165@0 306@440832 290@449280
+Pop	142
+Move y	164, value: 788587
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0
+Pop	142
+Move z	169, value: 788586
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 205@403968
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):167@0 205@403968 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 207@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):167@0 207@406272 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):167@0 207@406272 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 211@344064
+Pop	142
+Down	159, value: 1060714
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):167@(0,0) 213@(413952,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):167@(0,0) 213@(413952,28416) 290@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):167@(0,0) 216@(372480,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):167@(0,0) 216@(372480,28416) 220@(449280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 218@323328
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):167@0 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 437@247296
+Pop	142
+Move y	164, value: 1106794
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 437@247296 207@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):167@0 437@247296 207@406272 220@449280
+Pop	142
+Move y	164, value: 788587
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(565248):167@76800 441@565248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(782592):167@76800 441@565248 290@487680
+Pop	142
+Move y	164, value: 1060714
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):167@(0,0) 437@(247296,0) 213@(413952,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):167@(0,0) 437@(247296,0) 213@(413952,28416) 220@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):167@(0,0) 437@(247296,0) 213@(413952,28416) 290@(449280,0)
+Pop	142
+Down	159, value: 1062249
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):167@(0,0) 437@(247296,0) 216@(372480,28416) 290@(449280,0)
+Pop	142
+Down	159, value: 980074
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):167@0 437@247296 218@323328
+Pop	142
+Move y	164, value: 788587
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):167@0 437@247296 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):167@0 437@247296 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):167@0 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(450048):167@0 305@449280
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [15 0 0 0 0 0 0 0 0 0], previous page: 25693
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(449280):167@0 306@440832
+Pop	142
+Move y	164, value: 791991
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):167@0 306@440832 290@449280
+Pop	142
+Move z	169, value: 791990
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 205@716544 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 205@716544 290@757248
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0 207@718848
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 207@718848 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 207@718848 290@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0 211@656640
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 211@656640 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 211@656640 290@757248
+Pop	142
+Down	159, value: 1064118
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(757248):169@(0,0) 213@(726528,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(956928):169@(0,0) 213@(726528,28416) 220@(757248,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1052160):169@(0,0) 213@(726528,28416) 290@(757248,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(757248):169@(0,0) 216@(685056,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(956928):169@(0,0) 216@(685056,28416) 220@(757248,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1052160):169@(0,0) 216@(685056,28416) 290@(757248,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0 218@635904
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 218@635904 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 218@635904 290@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1184256):229@0 169@132096 207@850944 290@889344
+Pop	142
+Down	159, value: 1150133
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1184256):230@0 169@132096 243@736512 290@889344
+Pop	142
+Down	159, value: 1150134
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(894720):229@0 169@132096 305@893952
+Pop	142
+Down	159, value: 1110198
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0 435@707328 207@718848
+Pop	142
+Down	159, value: 1064117
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(757248):169@(0,0) 435@(707328,0) 213@(726528,28416)
+Pop	142
+Move y	164, value: 1124021
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(757248):169@(0,0) 439@(708096,0) 304@(756480,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(956928):169@(0,0) 439@(708096,0) 304@(756480,4294953473) 220@(757248,0)
+Pop	142
+Down	159, value: 1124020
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1052160):169@(0,0) 439@(708096,0) 304@(756480,4294953473) 290@(757248,0)
+Pop	142
+Move y	164, value: 791991
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 290@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1052160):169@(0,0) 304@(756480,4294953473) 290@(757248,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(762624):169@0 305@761856
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 305@761856 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 305@761856 290@757248
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(757248):169@0 306@753408
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 306@753408 211@656640 290@757248
+Pop	142
+Down	159, value: 1082550
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(956928):169@0 306@753408 220@757248
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1052160):169@0 306@753408 290@757248
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 205@403968
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 205@403968 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 205@403968 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 207@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 207@406272 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 207@406272 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 211@345600
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 211@345600 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 211@345600 290@449280
+Pop	142
+Down	159, value: 1064118
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):171@(0,0) 213@(413952,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):171@(0,0) 213@(413952,28416) 220@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):171@(0,0) 213@(413952,28416) 290@(449280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):171@(0,0) 216@(372480,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):171@(0,0) 216@(372480,28416) 220@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):171@(0,0) 216@(372480,28416) 290@(449280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 218@323328
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 218@323328 220@449280
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [16 0 0 0 0 0 0 0 0 0], previous page: 27671
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(744192):171@0 218@323328 290@449280
+Pop	142
+Move z	169, value: 789832
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 220@449280
+Pop	142
+Down	159, value: 789831
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 435@396288 205@403968
+Pop	142
+Move y	164, value: 1108039
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 435@396288 207@406272 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 436@398592 205@403968 220@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 436@398592 207@406272 220@449280
+Pop	142
+Down	159, value: 1108038
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 436@398592 207@406272 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 437@248832
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 437@248832 205@403968
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 205@403968 290@449280
+Pop	142
+Down	159, value: 1108038
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 437@248832 207@406272
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 207@406272 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(566784):171@76800 441@566784
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(782592):171@76800 441@566784 290@487680
+Pop	142
+Down	159, value: 1061958
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):171@(0,0) 437@(248832,0) 213@(413952,28416)
+Pop	142
+Move y	164, value: 1061959
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(648960):171@(0,0) 437@(248832,0) 213@(413952,28416) 220@(449280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(744192):171@(0,0) 437@(248832,0) 213@(413952,28416) 290@(449280,0)
+Pop	142
+Down	159, value: 1063495
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):171@(0,0) 437@(248832,0) 216@(372480,28416)
+Pop	142
+Down	159, value: 981318
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 437@248832 218@323328 220@449280
+Pop	142
+Down	159, value: 981319
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 218@323328 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 437@248832 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 290@449280
+Pop	142
+Down	159, value: 1121861
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(449280):171@(0,0) 439@(397056,0) 304@(443904,4294953473)
+Pop	142
+Move y	164, value: 1080391
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 305@449280 290@449280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 437@248832 306@440832
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 437@248832 306@440832 220@449280
+Pop	142
+Down	159, value: 1080390
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 437@248832 306@440832 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(450048):171@0 305@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 305@449280 220@449280
+Pop	142
+Down	159, value: 789831
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 305@449280 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 306@440832
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(449280):171@0 306@440832 211@345600
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 306@440832 211@345600 220@449280
+Pop	142
+Down	159, value: 1080390
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(648960):171@0 306@440832 220@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(744192):171@0 306@440832 290@449280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(763392):173@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(763392):173@0 205@721920
+Pop	142
+Move y	164, value: 789831
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(963072):173@0 205@721920 220@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1058304):173@0 205@721920 290@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1058304):173@0 207@724224 290@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(763392):173@(0,0) 213@(731904,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(763392):173@(0,0) 216@(690432,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1058304):173@(0,0) 216@(690432,28416) 290@(763392,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(963072):173@0 220@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(763392):173@0 435@712704 207@724224
+Pop	142
+Down	159, value: 1121861
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(763392):173@(0,0) 439@(713472,0) 304@(761856,4294953473)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1058304):173@0 290@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1058304):173@(0,0) 304@(761856,4294953473) 290@(763392,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(768000):173@0 305@767232
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1058304):173@0 305@767232 290@763392
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(763392):173@0 306@758784
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [17 0 0 0 0 0 0 0 0 0], previous page: 29699
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(1058304):173@0 306@758784 290@763392
+Pop	142
+Down	159, value: 797153
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):175@0
+Pop	142
+Move y	164, value: 1115359
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):175@0 205@406272
+Pop	142
+Move z	169, value: 1115360
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):175@0 205@406272 220@451584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 205@406272 290@451584
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):175@0 207@408576
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):175@0 207@408576 220@451584
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 207@408576 290@451584
+Pop	142
+Move y	164, value: 797153
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 211@387072
+Pop	142
+Down	159, value: 797152
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):176@0 211@387072 220@451584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):176@0 211@387072 290@451584
+Pop	142
+Move y	164, value: 1069279
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):175@(0,0) 213@(416256,28416)
+Pop	142
+Down	159, value: 1069280
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(651264):175@(0,0) 213@(416256,28416) 220@(451584,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(746496):175@(0,0) 213@(416256,28416) 290@(451584,0)
+Pop	142
+Down	159, value: 1070816
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):175@(0,0) 216@(374784,28416)
+Pop	142
+Down	159, value: 1070815
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(651264):175@(0,0) 216@(374784,28416) 220@(451584,0)
+Pop	142
+Move y	164, value: 988640
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):175@0 218@325632
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):175@0 218@325632 220@451584
+Pop	142
+Down	159, value: 988639
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 218@325632 290@451584
+Pop	142
+Down	159, value: 797153
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):175@0 220@451584
+Pop	142
+Move y	164, value: 1115359
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 435@437760 205@403968
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 435@437760 207@406272
+Pop	142
+Down	159, value: 1069279
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):176@(0,0) 435@(437760,0) 213@(413952,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 436@440064 205@403968
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 436@440064 207@406272
+Pop	142
+Down	159, value: 797152
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):177@0 437@247296
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):177@0 437@247296 205@403968
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):177@0 437@247296 205@403968 290@451584
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):177@0 437@247296 207@406272 290@451584
+Pop	142
+Move z	169, value: 797152
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(608256):176@76800 441@608256
+Pop	142
+Move y	164, value: 797153
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(689664):176@76800 441@608256 220@489984
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(784896):176@76800 441@608256 290@489984
+Pop	142
+Move y	164, value: 1069279
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):177@(0,0) 437@(247296,0) 213@(413952,28416)
+Pop	142
+Down	159, value: 1069280
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(651264):177@(0,0) 437@(247296,0) 213@(413952,28416) 220@(451584,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(746496):177@(0,0) 437@(247296,0) 213@(413952,28416) 290@(451584,0)
+Pop	142
+Move y	164, value: 1070816
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):177@(0,0) 437@(247296,0) 216@(372480,28416)
+Pop	142
+Down	159, value: 1070815
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(651264):177@(0,0) 437@(247296,0) 216@(372480,28416) 220@(451584,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(746496):177@(0,0) 437@(247296,0) 216@(372480,28416) 290@(451584,0)
+Pop	142
+Down	159, value: 988639
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):177@0 437@247296 218@323328
+Pop	142
+Down	159, value: 988640
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):177@0 437@247296 218@323328 290@451584
+Pop	142
+Down	159, value: 797153
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):177@0 437@247296 220@451584
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):177@0 437@247296 290@451584
+Pop	142
+Move y	164, value: 1129183
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(451584):176@(0,0) 439@(438528,0) 304@(443904,4294953473)
+Pop	142
+Down	159, value: 1129182
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(651264):176@(0,0) 439@(438528,0) 304@(443904,4294953473) 220@(451584,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(746496):176@(0,0) 439@(438528,0) 304@(443904,4294953473) 290@(451584,0)
+Pop	142
+Down	159, value: 1087711
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):177@0 437@247296 305@449280
+Pop	142
+Down	159, value: 1087712
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):177@0 437@247296 305@449280 290@451584
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [18 0 0 0 0 0 0 0 0 0], previous page: 31622
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46697011
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(451584):177@0 437@247296 306@440832
+Pop	142
+Move y	164, value: 1089662
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(689664):176@76800 441@608256 306@556032 220@489984
+Pop	142
+Move z	169, value: 799103
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 290@451584
+Pop	142
+Down	159, value: 1131133
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(746496):175@(0,0) 304@(446208,4294953473) 290@(451584,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(452352):175@0 305@451584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 305@451584 290@451584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):175@0 306@443136
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(451584):176@0 306@440832 211@387072
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(651264):176@0 306@440832 211@387072 220@451584
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(746496):175@0 306@443136 290@451584
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 205@701184
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 205@701184 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 205@701184 290@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 207@703488
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 207@703488 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 207@703488 290@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 211@641280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 211@641280 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 211@641280 290@737280
+Pop	142
+Down	159, value: 1071230
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):180@(0,0) 213@(711168,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 213@(711168,28416) 220@(737280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 213@(711168,28416) 290@(737280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):180@(0,0) 216@(669696,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 216@(669696,28416) 220@(737280,0)
+Pop	142
+Down	159, value: 799102
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 216@(669696,28416) 290@(737280,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 218@620544 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 218@620544 290@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 435@691968 205@701184
+Pop	142
+Move y	164, value: 1117310
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 435@691968 205@701184 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 435@691968 207@703488
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 436@694272 205@701184
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 436@694272 205@701184 220@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 436@694272 207@703488
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 436@694272 207@703488 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 437@544512
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 437@544512 205@701184
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 205@701184 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(737280):180@0 437@544512 207@703488
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 207@703488 290@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(747264):180@0 441@747264
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 441@747264 220@737280
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 441@747264 290@737280
+Pop	142
+Move y	164, value: 1071230
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):180@(0,0) 437@(544512,0) 213@(711168,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 437@(544512,0) 213@(711168,28416) 220@(737280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 437@(544512,0) 213@(711168,28416) 290@(737280,0)
+Pop	142
+Move y	164, value: 1072766
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(737280):180@(0,0) 437@(544512,0) 216@(669696,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 437@(544512,0) 216@(669696,28416) 220@(737280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 437@(544512,0) 216@(669696,28416) 290@(737280,0)
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [19 0 0 0 0 0 0 0 0 0], previous page: 33494
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_string(936960):180@0 437@544512 218@620544 220@737280
+Pop	142
+Down	159, value: 978215
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 218@620544 290@737280
+Pop	142
+Move y	164, value: 786728
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 437@544512 220@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 290@737280
+Pop	142
+Move y	164, value: 1118758
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(741120):180@(0,0) 439@(692736,0) 304@(741120,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 439@(692736,0) 304@(741120,4294953473) 220@(737280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 439@(692736,0) 304@(741120,4294953473) 290@(737280,0)
+Pop	142
+Move y	164, value: 1077287
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 437@544512 305@746496 220@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 305@746496 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(738048):180@0 437@544512 306@738048
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 441@747264 306@738048 220@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 441@747264 306@738048 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 437@544512 306@738048 290@737280
+Pop	142
+Move y	164, value: 786728
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(741120):180@(0,0) 304@(741120,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(936960):180@(0,0) 304@(741120,4294953473) 220@(737280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1032192):180@(0,0) 304@(741120,4294953473) 290@(737280,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(747264):180@0 305@746496
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 305@746496 220@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 305@746496 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(738048):180@0 306@738048
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 306@738048 211@641280 220@737280
+Pop	142
+Move y	164, value: 1077287
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 306@738048 211@641280 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(936960):180@0 306@738048 220@737280
+Pop	142
+Move y	164, value: 786728
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1032192):180@0 306@738048 290@737280
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(441600):182@0 205@399360
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(441600):182@(0,0) 216@(367872,28416)
+Pop	142
+Down	159, value: 786727
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(641280):182@0 220@441600
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 205@718848
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 205@718848 211@658944
+Pop	142
+Move y	164, value: 1104935
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 205@718848 211@658944 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 205@718848 220@760320
+Pop	142
+Move y	164, value: 786728
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 207@721152
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 207@721152 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 207@721152 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 211@658944
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 211@658944 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 211@658944 290@760320
+Pop	142
+Move z	169, value: 1058855
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):183@(0,0) 213@(728832,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):183@(0,0) 213@(728832,28416) 220@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):183@(0,0) 213@(728832,28416) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):183@(0,0) 216@(687360,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):183@(0,0) 216@(687360,28416) 220@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):183@(0,0) 216@(687360,28416) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 218@638208
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 218@638208 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 218@638208 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 435@709632 207@721152
+Pop	142
+Down	159, value: 1104935
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 435@709632 207@721152 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(760320):183@(0,0) 435@(709632,0) 213@(728832,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 435@709632 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 290@760320
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [20 0 0 0 0 0 0 0 0 0], previous page: 35364
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46655540
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(760320):183@(0,0) 304@(758784,4294953473) 209@(601344,0)
+Pop	142
+Move y	164, value: 1124750
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(960000):183@(0,0) 304@(758784,4294953473) 209@(601344,0) 220@(760320,0)
+Pop	142
+Down	159, value: 1124749
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):183@(0,0) 304@(758784,4294953473) 209@(601344,0) 290@(760320,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1055232):183@(0,0) 304@(758784,4294953473) 290@(760320,0)
+Pop	142
+Move y	164, value: 792719
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(764928):183@0 305@764160
+Pop	142
+Move z	169, value: 792720
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 305@764160 220@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 305@764160 290@760320
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 306@755712
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(760320):183@0 306@755712 211@658944
+Pop	142
+Move y	164, value: 1083279
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(960000):183@0 306@755712 211@658944 220@760320
+Pop	142
+Down	159, value: 1083278
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 306@755712 211@658944 290@760320
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1055232):183@0 306@755712 290@760320
+Pop	142
+Move y	164, value: 792719
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 205@728064
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):186@0 205@728064 220@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 205@728064 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 207@730368
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 207@730368 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 209@610560 218@647424
+Pop	142
+Down	159, value: 984207
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 209@610560 218@647424 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 211@668160
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):186@0 211@668160 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 211@668160 290@769536
+Pop	142
+Down	159, value: 1064847
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):186@(0,0) 213@(738048,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):186@(0,0) 213@(738048,28416) 220@(769536,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):186@(0,0) 213@(738048,28416) 290@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):186@(0,0) 216@(696576,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):186@(0,0) 216@(696576,28416) 220@(769536,0)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):186@(0,0) 216@(696576,28416) 290@(769536,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 218@647424
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):186@0 218@647424 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 218@647424 290@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(969216):186@0 220@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 290@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):186@(0,0) 304@(768000,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(769536):186@(0,0) 304@(768000,4294953473) 209@(610560,0)
+Pop	142
+Down	159, value: 1124750
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(969216):186@(0,0) 304@(768000,4294953473) 209@(610560,0) 220@(769536,0)
+Pop	142
+Down	159, value: 1124749
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1064448):186@(0,0) 304@(768000,4294953473) 209@(610560,0) 290@(769536,0)
+Pop	142
+Down	159, value: 1083279
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(774144):186@0 305@773376
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 305@773376 290@769536
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(769536):186@0 306@764928
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 306@764928 211@668160 290@769536
+Pop	142
+Down	159, value: 1083279
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1064448):186@0 306@764928 290@769536
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(721920):191@0
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1443840):191@(0,0) 191@(721920,0) 304@(1439232,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 205@677376 220@721920
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 205@677376 290@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(721920):191@0 207@679680
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 207@679680 220@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 207@679680 290@721920
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(721920):191@0 211@617472
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 211@617472 220@721920
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 211@617472 290@721920
+Pop	142
+Down	159, value: 1064846
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(721920):191@(0,0) 213@(687360,28416)
+Pop	142
+Move z	166, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(921600):191@(0,0) 213@(687360,28416) 220@(721920,0)
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Bop	139, id: [21 0 0 0 0 0 0 0 0 0], previous page: 37358
+Spec	239, len: 20
+	`pdf:pagesize default'
+Down	159, value: -947242
+Push	141
+Down	159, value: -917504
+Pop	142
+Down	160, value: 47362867
+Push	141
+Down	160, value: -46707507
+Push	141
+Right	145, value: 363478
+Fnt num	187, k: 16
+xdv_glyph_array(1016832):191@(0,0) 213@(687360,28416) 290@(721920,0)
+Pop	142
+Move y	164, value: 786432
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(721920):191@(0,0) 216@(645888,28416)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(921600):191@(0,0) 216@(645888,28416) 220@(721920,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1016832):191@(0,0) 216@(645888,28416) 290@(721920,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 218@596736 220@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(721920):191@0 437@520704
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 437@520704 290@721920
+Pop	142
+Move y	164, value: 1118462
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(721920):191@(0,0) 439@(668928,0) 304@(717312,4294953473)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(921600):191@(0,0) 439@(668928,0) 304@(717312,4294953473) 220@(721920,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(1016832):191@(0,0) 439@(668928,0) 304@(717312,4294953473) 290@(721920,0)
+Pop	142
+Move y	164, value: 786432
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 290@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_array(921600):191@(0,0) 304@(717312,4294953473) 220@(721920,0)
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(723456):191@0 305@722688
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 305@722688 220@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 305@722688 290@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(721920):191@0 306@714240
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 306@714240 211@617472 220@721920
+Pop	142
+Down	159, value: 1076991
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(921600):191@0 306@714240 220@721920
+Pop	142
+Move y	161, value: no_b
+Push	141
+Right	145, value: 363478
+xdv_glyph_string(1016832):191@0 306@714240 290@721920
+Pop	142
+Pop	142
+Down	159, value: 1572864
+Eop	140
+Post	248, prev: 39386, num: 25400000, den: 473628672, mag: 1000, 
+	l: 47988489, u: 29838621, s: 2, t: 21
+Native Font(16): [./Padauk.ttf]
+PPost	249, q: 40188, i: 5
