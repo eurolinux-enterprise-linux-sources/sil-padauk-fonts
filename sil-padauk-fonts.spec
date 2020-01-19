@@ -10,7 +10,7 @@ The font is a smart font using a Graphite description.
 
 Name:    %{fontname}-fonts
 Version: 2.8
-Release: 4%{?dist}
+Release: 5%{?dist}
 Summary: A font for Burmese and the Myanmar script
 
 Group:   User Interface/X
@@ -81,6 +81,9 @@ ln -s %{_fontconfig_templatedir}/%{fontconf}-book.conf \
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 2.8-5
+- Mass rebuild 2013-12-27
+
 * Wed Mar 13 2013 Parag <paragn AT fedoraproject DOT org> - 2.8-4
 - Resolves:rh#907330 - Fix the PostScript name in font files
 
